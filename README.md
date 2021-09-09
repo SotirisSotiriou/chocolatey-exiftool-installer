@@ -1,0 +1,1 @@
+# chocolatey-and-exiftool-installer
